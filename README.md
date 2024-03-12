@@ -2,15 +2,15 @@
 
 # AND101 Project 3 - AnimalApps
 
-Submitted by: **Erick Sanchez**
+Submitted by: **Your Name Here**
 
-Time spent: **5** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Summary
 
 **TwitchSignUpPage** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: **😮‍💨😫😢**
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
@@ -38,61 +38,19 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
-
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
-# AND101 Project 3 - AnimalApps
-
-Submitted by: **Your Name Here**
-
-Time spent: **X** hours spent in total
-
-## Summary
-
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
-
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
-
-## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
-The following REQUIRED features are completed:
-
-- [ ] Pick an app screenshot to duplicate
-  - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
-
-The following STRETCH features are implemented:
-
-- [ ] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
-
-## Chosen Screenshot
-
 I have chosen to duplicate the following layout from the **Twitch** app:
 
-![image-27](https://github.com/Theknowranking/twitchsignuppage/assets/54183267/dd6248d6-1f6b-477b-8617-55cba26390eb)
+![image-27](https://github.com/Theknowranking/twitchsignuppage/assets/54183267/7f131ab9-420b-4a1a-915b-0491e8e774e2)
 
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![SmartSelect_20240312_010100_Gmail](https://github.com/Theknowranking/twitchsignuppage/assets/54183267/98f4b6f9-3e29-428f-8d38-eadcc7f1f66d)
+![SmartSelect_20240312_010100_Gmail](https://github.com/Theknowranking/twitchsignuppage/assets/54183267/86ea3c22-0434-4357-89d0-d71a07d7f97d)
 
 
-GIF created with **your chosen GIF tool**
+GIF created with **SmartSelect**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
